@@ -1,6 +1,6 @@
 ## VIKTORIYA BALTSER
  * Discord: Vik-tori8 #1044
- * wita.dance8@gmail.com
+ * E-mail: wita.dance8@gmail.com
 
 # FrontEnd Developer
 ## About me
@@ -17,7 +17,7 @@ I am creative in everything.
  * CSS
  * Git
 
-## Experience
+## Education
  Currently studying at the RSSchool.
 
 ## Languages 
